@@ -29,7 +29,6 @@ if [[ $(uname -s) == 'Linux' ]]; then
         gobject-introspection \
         build-essential \
         g++-12 \
-        gtk+3.0 \
         libgtk-3-dev \
         libgtk-4-dev \
         gir1.2-gtk-3.0 \
